@@ -117,7 +117,8 @@ if (strcmpi(fname((length(fname)-3):length(fname)), '.MGZ') | ...
   %ind = findstr(fname, '.');
   %new_fname = sprintf('/tmp/tmp%d.mgh', gzipped);
 
-  new_fname = tempname('/tmp');
+  new_fname = tempname(tempdir);
+  % new_fname = tempname('/tmp');
   new_fname = sprintf('%s.mgh', new_fname);
   %fprintf('save_mgh tmp file name %s\n',new_fname);
   unix(sprintf('mv %s %s ; gzip %s ; mv %s.gz %s', fname, new_fname, new_fname, new_fname, fname)) ;

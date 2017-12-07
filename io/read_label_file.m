@@ -1,4 +1,4 @@
-function vert_num = read_label_old(fname_label)
+function [vert_num,vert_ras] = read_label_file(fname_label)
 
 %
 % read_label_old.m
@@ -33,5 +33,6 @@ for vert = 1:1:num_vert_label
   s = fgetl(fid);
   vert_data = sscanf(s,'%d %f %f %f %f');
   vert_num(vert) = vert_data(1:1);
+  vert_ras(vert,:) = vert_data(2:4);
 end;
 fclose(fid);
