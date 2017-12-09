@@ -7,6 +7,6 @@ A collection of custom scripts used for shape analysis
 
 3. other useful command line tools include:
 
-..* Point Cloud Library (PCL) http://www.pointclouds.org/
+⋅⋅* Point Cloud Library (PCL) http://www.pointclouds.org/
 
-..* MeshLab http://www.meshlab.net/ (meshlabserver)
+⋅⋅* MeshLab http://www.meshlab.net/ (meshlabserver)
