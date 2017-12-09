@@ -1,12 +1,12 @@
 # shape_toolbox
 A collection of custom scripts used for shape analysis
 
-toolbox_graph is from https://www.mathworks.com/matlabcentral/fileexchange/5355-toolbox-graph
+1. toolbox_graph is from https://www.mathworks.com/matlabcentral/fileexchange/5355-toolbox-graph, more related matlab functions can be found in https://github.com/gpeyre/matlab-toolboxes
 
-freesurfer is from https://surfer.nmr.mgh.harvard.edu/
+2. freesurfer is from https://surfer.nmr.mgh.harvard.edu/
 
-other useful command line tools include:
+3. other useful command line tools include:
 
-Point Cloud Library (PCL) http://www.pointclouds.org/
+..* Point Cloud Library (PCL) http://www.pointclouds.org/
 
-MeshLab http://www.meshlab.net/ (meshlabserver)
+..* MeshLab http://www.meshlab.net/ (meshlabserver)
