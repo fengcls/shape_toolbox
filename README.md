@@ -1,9 +1,18 @@
 # shape_toolbox
 A collection of public and custom scripts used for shape analysis
+1. custom scripts
+  * io
+  * analysis
+  * operation
+  * utils
 
-1. external/toolbox_graph is from https://www.mathworks.com/matlabcentral/fileexchange/5355-toolbox-graph, more related matlab functions can be found in https://github.com/gpeyre/matlab-toolboxes
+2. external
+  * [toolbox_graph](https://www.mathworks.com/matlabcentral/fileexchange/5355-toolbox-graph): a toolbox with various functions on graph,
+  more related matlab functions can be found in https://github.com/gpeyre/matlab-toolboxes
 
-2. external/freesurfer is from https://surfer.nmr.mgh.harvard.edu/
+  * [freesurfer](https://surfer.nmr.mgh.harvard.edu/): matlab interface to freesurfer volume and surface files
+  
+  * [renderpatch](https://www.mathworks.com/matlabcentral/fileexchange/27084-patch-software-render?focused=5150182&tab=function), [refinepatch](https://www.mathworks.com/matlabcentral/fileexchange/16215-triangular-mesh-refinement), [smoothpatch](https://www.mathworks.com/matlabcentral/fileexchange/26710-smooth-triangulated-mesh), [tricurv](https://www.mathworks.com/matlabcentral/fileexchange/24937-curvature-calculations-on-triangular-3d-surface): various functions processing patches
 
 3. other useful matlab toolboxes include:
 
