@@ -11,8 +11,6 @@ A collection of public and custom scripts used for shape analysis
   more related matlab functions can be found in https://github.com/gpeyre/matlab-toolboxes
 
   * [freesurfer](https://surfer.nmr.mgh.harvard.edu/): matlab interface to freesurfer volume and surface files
-  
-  * [renderpatch](https://www.mathworks.com/matlabcentral/fileexchange/27084-patch-software-render?focused=5150182&tab=function), [refinepatch](https://www.mathworks.com/matlabcentral/fileexchange/16215-triangular-mesh-refinement), [smoothpatch](https://www.mathworks.com/matlabcentral/fileexchange/26710-smooth-triangulated-mesh), [tricurv](https://www.mathworks.com/matlabcentral/fileexchange/24937-curvature-calculations-on-triangular-3d-surface): various functions processing patches
 
 3. other useful **matlab** toolboxes include:
 
