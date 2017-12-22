@@ -14,7 +14,7 @@ A collection of public and custom scripts used for shape analysis
   
   * [renderpatch](https://www.mathworks.com/matlabcentral/fileexchange/27084-patch-software-render?focused=5150182&tab=function), [refinepatch](https://www.mathworks.com/matlabcentral/fileexchange/16215-triangular-mesh-refinement), [smoothpatch](https://www.mathworks.com/matlabcentral/fileexchange/26710-smooth-triangulated-mesh), [tricurv](https://www.mathworks.com/matlabcentral/fileexchange/24937-curvature-calculations-on-triangular-3d-surface): various functions processing patches
 
-3. other useful matlab toolboxes include:
+3. other useful **matlab** toolboxes include:
 
   * [Iso2Mesh](https://github.com/fangq/iso2mesh): 3D surface and volumetric mesh generator
    
@@ -22,7 +22,12 @@ A collection of public and custom scripts used for shape analysis
    
   * [Poisson's equation solver](http://www.csd.uwo.ca/~ygorelic/3DGMG_poisson_solver_basic.zip)
 
-4. other useful command line tools include:
+4. other useful **python** toolboxes include:
+  * [BrainPrint and ShapeDNA](https://github.com/reuter-lab/BrainPrint): spectral shape descriptor on brain regions
+  
+  * [Shape module in Mindboggle](https://github.com/nipy/mindboggle/tree/master/mindboggle/shapes): spectral shape descriptor, zernike
+
+5. other useful **command line** tools include:
 
   * [Point Cloud Library (PCL)](http://www.pointclouds.org/):
 
