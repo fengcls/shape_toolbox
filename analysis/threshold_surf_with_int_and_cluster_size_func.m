@@ -11,7 +11,7 @@ function s = threshold_surf_with_int_and_cluster_size_func(v,f,orig_s,int_thresh
 v_keep_ind_int_thresh = ones(size(orig_s));
 % the specified intensity threshod is larger than the median, keep larger
 % part of the distribution
-if int_thresh>median(orig_s)
+if int_thresh>0 %int_thresh>median(orig_s)
     v_keep_ind_int_thresh(orig_s<int_thresh)=0;
 else
     v_keep_ind_int_thresh(orig_s>int_thresh)=0;
