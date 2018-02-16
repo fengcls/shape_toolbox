@@ -12,7 +12,7 @@ A collection of public and custom scripts used for shape analysis
 
   * [freesurfer](https://surfer.nmr.mgh.harvard.edu/): matlab interface to freesurfer volume and surface files
   
-  * minbound [1](https://www.mathworks.com/matlabcentral/fileexchange/34767-a-suite-of-minimal-bounding-objects [2](https://www.mathworks.com/matlabcentral/fileexchange/18264-minimal-bounding-box): find bounding box (and other object)
+  * minbound [1](https://www.mathworks.com/matlabcentral/fileexchange/34767-a-suite-of-minimal-bounding-objects) [2](https://www.mathworks.com/matlabcentral/fileexchange/18264-minimal-bounding-box): find bounding box (and other object)
 
 ### 3. other useful *matlab* toolboxes:
 
