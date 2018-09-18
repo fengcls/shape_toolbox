@@ -26,6 +26,8 @@ A collection of public and custom scripts used for shape analysis
   * [BrainPrint and ShapeDNA](https://github.com/reuter-lab/BrainPrint): spectral shape descriptor on brain regions
   
   * [Shape module in Mindboggle](https://github.com/nipy/mindboggle/tree/master/mindboggle/shapes): spectral shape descriptor, zernike
+  
+  * [Trimesh](https://github.com/mikedh/trimesh): Python (2.7- 3.3+) library for loading and using triangular meshes with an emphasis on watertight meshes.
 
 ### 5. other useful *command line* tools:
 
